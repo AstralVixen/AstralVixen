@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AstralVixen
-- 👀 I’m interested in full-stack website development, software development, minecraft modding and cybersecurity.
+- 👀 I’m interested in full-stack website development, software development, minecraft modding, discord bot development and cybersecurity.
 - 🌱 I’m currently learning kotlin and typescript
 - 🧠 I already know 7 languages but I have a need for learning
 - 😄 Pronouns: she/her
