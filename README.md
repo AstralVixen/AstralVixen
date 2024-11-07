@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning kotlin and typescript
 - 🧠 I already know 7 languages but I have a need for learning
 - 😄 Pronouns: she/her
-- ⚙️ I plan to make all my minecraft mods open source... I just need to.. finish a mod..
+- ⚙️ All my minecraft mods (and most of my projects) are MIT Licensed open-source projects!
 - ⛩️ My main focus is on my hungarian website (https://roninacademy.web.app) where I plan to offer free and paid courses of various programming languages and IT knowledge.
 
 <!---
